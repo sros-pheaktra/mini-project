@@ -15,7 +15,7 @@
 3. git push origin main/master
 
 ### clone project 
-1. git clone repo https://github.com/sros-pheaktra/mini-project.git
+1. git clone https://github.com/sros-pheaktra/mini-project.git
 
 ### pull and checkout the branch (already created the  branch in GitHub)
 1. git branch (check the current branch that you are on) 
